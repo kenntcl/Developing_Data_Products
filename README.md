@@ -25,7 +25,7 @@ The Shiny application in question is entirely up to you. However, if you're havi
 
 **Description of this Shiny application**
 
-This shiny application will allow users to have a prediction of the MPG relative to cars based on the mtcars dataset. Users simply need to enter the gross horsepower, number of cylinders and weight of the cars on the side panel. The result will be displayed on the right panel.
+This shiny application will allow users to have a prediction of the MPG relative to cars based on the mtcars dataset. Users simply need to enter the gross horsepower, number of cylinders and weight of the cars on the side panel. The result will be displayed automatically on the right panel.
 
 **Directions on how to visualize this Shiny application**
 
