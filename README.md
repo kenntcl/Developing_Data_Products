@@ -4,7 +4,7 @@ This README file is the supporting documentation for this Shiny application. It 
 2. Description of this Shiny application
 3. Directions on how to visualize this Shiny application
 
-The Shiny application can be accessed [here](https://kenntcl.shinyapps.io/mpgcar/)
+The Shiny application can be accessed [here](https://kenntcl.shinyapps.io/mpgcar/).
 
 **Objective for the Course Project**
 
