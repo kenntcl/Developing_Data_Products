@@ -14,7 +14,7 @@ shinyUI(pageWithSidebar(
                 h3('Predicted MPG'),
                 h4('You have provided the below inputs:'),
                 verbatimTextOutput("inputValues"),
-                h4('This results in a prediction of the below MPG relative to cars based on the mtcars data set'),
+                h4('This results in a prediction of the below MPG relative to cars based on the mtcars data set.'),
                 verbatimTextOutput("prediction"),
                 plotOutput('plots'),
                 p(),
