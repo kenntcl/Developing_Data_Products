@@ -27,7 +27,7 @@ This shiny application will allow users to have a prediction of the MPG relative
 
 Directions on how to visualize this Shiny application
 
-Download the server.R and ui.R files and place them in a directory named 'mpgcar'. Open an R session and set the working directory to the folder that contains the directory 'mpgcar'. Then run the following commands:
+Download the Server.R and UI.R files and place them in a directory named 'mpgcar'. Open an R session and set the working directory to the folder that contains the directory 'mpgcar'. Then run the following commands:
 
 ````r{}
 library(shiny)
